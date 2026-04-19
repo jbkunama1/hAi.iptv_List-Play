@@ -1,0 +1,16 @@
+#EXTM3U
+
+# DACH – Aggregation von DE, AT, CH
+# EXTINF-Einträge verweisen jeweils auf die Länderlisten dieses Repositories
+
+# Deutschland
+#EXTINF:-1 group-title="Deutschland",Deutschland – Sammelliste
+https://raw.githubusercontent.com/jbkunama1/hAi.iptv_List-Play/main/de.m3u
+
+# Österreich
+#EXTINF:-1 group-title="Österreich",Österreich – Sammelliste
+https://raw.githubusercontent.com/jbkunama1/hAi.iptv_List-Play/main/at.m3u
+
+# Schweiz
+#EXTINF:-1 group-title="Schweiz",Schweiz – Sammelliste
+https://raw.githubusercontent.com/jbkunama1/hAi.iptv_List-Play/main/ch.m3u
