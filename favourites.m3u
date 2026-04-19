@@ -1,0 +1,20 @@
+#EXTM3U
+
+# Favoriten – wichtige öffentlich-rechtliche Sender (Beispiele)
+# Hinweis: Konkrete Stream-URLs ändern sich häufig; hier werden bewusst nur
+# kuratierte Sammellisten verlinkt, nicht einzelne Kanäle.
+
+# Deutschland – öffentlich-rechtliche Sender (Sammellisten über iptv-org)
+#EXTINF:-1 group-title="Favoriten",Deutschland – ÖR-Sender (iptv-org Länderplaylist)
+https://iptv-org.github.io/iptv/countries/de.m3u
+
+# Österreich – öffentlich-rechtliche Sender (Sammellisten über iptv-org)
+#EXTINF:-1 group-title="Favoriten",Österreich – ÖR-Sender (iptv-org Länderplaylist)
+https://iptv-org.github.io/iptv/countries/at.m3u
+
+# Schweiz – öffentlich-rechtliche Sender (Sammellisten über iptv-org & iptv-ch)
+#EXTINF:-1 group-title="Favoriten",Schweiz – ÖR-Sender (iptv-org Länderplaylist)
+https://iptv-org.github.io/iptv/countries/ch.m3u
+
+#EXTINF:-1 group-title="Favoriten",Schweiz – offene deutschsprachige Sender (iptv-ch)
+https://iptv-ch.github.io/tvopenchde.m3u
