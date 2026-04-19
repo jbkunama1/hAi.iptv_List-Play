@@ -1,0 +1,27 @@
+#EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-tvsd.xml.gz"
+
+# DACH IPTV – legale, öffentlich verfügbare Quellen
+# Fokus: Deutschland, Österreich, Schweiz
+# Hinweis: Verfügbarkeit einzelner Streams kann sich ändern.
+
+# --- Deutschland (iptv-org Länderplaylist) ---
+# Quelle/Referenz: https://iptv-org.github.io/iptv/countries/de.m3u
+# EPG: je nach Sender unterschiedlich; zentrale XMLTV-Datei ist nicht vollständig für alle DE-Sender
+#EXTINF:-1 group-title="Deutschland",Deutschland – iptv-org Länderplaylist
+https://iptv-org.github.io/iptv/countries/de.m3u
+
+# --- Österreich (iptv-org Länderplaylist) ---
+# Quelle/Referenz: https://iptv-org.github.io/iptv/countries/at.m3u
+#EXTINF:-1 group-title="Österreich",Österreich – iptv-org Länderplaylist
+https://iptv-org.github.io/iptv/countries/at.m3u
+
+# --- Schweiz (iptv-org Länderplaylist) ---
+# Quelle/Referenz: https://iptv-org.github.io/iptv/countries/ch.m3u
+#EXTINF:-1 group-title="Schweiz",Schweiz – iptv-org Länderplaylist
+https://iptv-org.github.io/iptv/countries/ch.m3u
+
+# --- Schweiz DE offen (iptv-ch) ---
+# Quelle/Referenz: https://iptv-ch.github.io/tvopenchde.m3u
+# EPG laut Projekt teils über xmltv.ch eingebunden
+#EXTINF:-1 group-title="Schweiz",Schweiz – offene deutschsprachige Sender (iptv-ch)
+https://iptv-ch.github.io/tvopenchde.m3u
