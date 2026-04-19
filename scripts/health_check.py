@@ -9,7 +9,7 @@ SOURCES = {
     "ch": "https://iptv-org.github.io/iptv/countries/ch.m3u",
     "ch_open_de": "https://iptv-ch.github.io/tvopenchde.m3u",
     "free_tv": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
-    "kodinerds_clean": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/clean.m3u",
+    "kodinerds_clean": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/clean/clean_tv.m3u",
 }
 
 
