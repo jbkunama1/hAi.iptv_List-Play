@@ -1,0 +1,15 @@
+#EXTM3U
+
+# Deutschland – Sammelquellen
+
+# iptv-org Länderplaylist (DE)
+#EXTINF:-1 group-title="Deutschland",Deutschland – iptv-org
+https://iptv-org.github.io/iptv/countries/de.m3u
+
+# Free-TV globale Liste (viele Free-TV-Sender, auch für DACH interessant)
+#EXTINF:-1 group-title="Deutschland",Free-TV – weltweite Free-TV-Playlist
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+
+# Kodinerds – Basisliste (clean, nach Ländern sortiert)
+#EXTINF:-1 group-title="Deutschland",Kodinerds – clean (Basisliste)
+https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/clean/clean_tv.m3u
