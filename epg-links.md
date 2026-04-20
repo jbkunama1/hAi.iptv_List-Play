@@ -7,6 +7,5 @@
 
 ## Hinweise
 
-- Für die Schweiz ist `xmltv.ch` direkt als EPG-Quelle dokumentiert, insbesondere im Umfeld der Swisscom-Playlists von iptv-ch.
-- Für Deutschland und Österreich gibt es in den hier recherchierten Quellen keinen einzelnen offiziell dokumentierten Komplett-EPG-Link, der alle Sender zuverlässig abdeckt.
-- Deshalb ist in der Playlist oben ein zentraler XMLTV-Link für CH eingetragen; für DE/AT sollte der Player zusätzliche EPG-Zuordnung pro Sender unterstützen.
+- Für die Schweiz ist `xmltv.ch` direkt als EPG-Quelle in Kombination mit iptv-ch dokumentiert.
+- Für Deutschland und Österreich ist in dieser kompakten Repo-Vorlage kein einzelner vollständig belegter Universal-EPG-Link hinterlegt.
