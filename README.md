@@ -1,5 +1,3 @@
-![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)
-
 # 🇩🇪🇦🇹🇨🇭 hAI.iptv_List&Play
 
 Ein kuratiertes GitHub-Repository für **legale, öffentlich verfügbare IPTV-Quellen** aus **Deutschland, Österreich und der Schweiz**.
