@@ -1,4 +1,4 @@
-"![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)"
+![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)
 
 # 🇩🇪🇦🇹🇨🇭 hAI.iptv_List&Play
 
