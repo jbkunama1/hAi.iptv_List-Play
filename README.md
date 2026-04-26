@@ -1,3 +1,5 @@
+[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/highfish)
+
 # 🇩🇪🇦🇹🇨🇭 hAI.iptv_List&Play
 
 Ein kuratiertes GitHub-Repository für **legale, öffentlich verfügbare IPTV-Quellen** aus **Deutschland, Österreich und der Schweiz**.
