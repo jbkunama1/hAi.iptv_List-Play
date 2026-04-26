@@ -1,4 +1,4 @@
-[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/highfish)
+[<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width="120" height="28" alt="Buy me a coffee">](https://www.buymeacoffee.com/highfish)
 
 # 🇩🇪🇦🇹🇨🇭 hAI.iptv_List&Play
 
